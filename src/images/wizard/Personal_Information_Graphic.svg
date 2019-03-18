@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="201px" height="193px" viewBox="0 0 201 193" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Personal Information Graphic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100.004205%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50.0033416%" x2="100.007052%" y2="50.0033416%" id="linearGradient-3">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9912204%" y1="100%" x2="49.9912204%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="99.9860081%" x2="50%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9975261%" y1="100%" x2="49.9975261%" y2="0%" id="linearGradient-6">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Development--Inititation-&gt;-User-Information" transform="translate(-113.000000, -169.000000)">
+            <g id="Personal-Information-Graphic" transform="translate(113.000000, 169.000000)">
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="31" y="0" width="170" height="193"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="33" y="4" width="164" height="186"></rect>
+                <rect id="Rectangle" fill="#3EB7F9" opacity="0.2" x="17" y="34" width="94" height="59"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-2)" x="0" y="26" width="107" height="62"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="1" y="34" width="105" height="51"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-3)" x="8" y="40" width="37" height="38"></rect>
+                <rect id="Rectangle" fill="#3EB7F9" x="9" y="40" width="34" height="37"></rect>
+                <path d="M36.7244523,55.0827342 C36.4512949,52.9320455 36.0415588,50.7762904 35.1537972,48.7649279 C34.2660357,46.7535653 32.840154,44.9043277 30.8542997,43.7618534 C30.1465326,43.3218463 29.3276116,43.0599672 28.4778303,43.0018928 C26.9235646,42.9512287 25.4867567,43.9239784 24.6864055,45.1601811 C24.4154023,45.5883915 24.178931,46.0346085 23.9789278,46.4951787 C22.4548197,46.7359082 21.306021,47.9122116 21.1981854,49.342498 C17.8326311,50.6719798 15.753079,53.8408692 16.0260892,57.2239071 C16.2990993,60.6069451 18.8640947,63.4534834 22.4055411,64.3035904 L22.4055411,65.6537872 C18.6419119,66.5663056 16.0122992,69.7141862 16,73.3217904 L16,77 L33.0805325,77 L33.0805325,73.3167239 C33.0688874,69.7105736 30.441916,66.5631705 26.6804545,65.6487208 L26.6804545,64.298524 C30.4512017,63.3943943 33.0854794,60.2398875 33.0859957,56.6279876 C33.0859957,56.6102552 33.0859957,56.5899896 33.0859957,56.5722572 L34.0475098,58.5557545 C34.9625871,60.4455234 35.899517,62.4720852 35.5416808,64.5189126 C37.2953513,61.7323901 37.1505779,58.2847019 36.7244523,55.0827342 Z" id="Path" fill="#FFFFFF"></path>
+                <rect id="Rectangle" fill="#3EB7F9" x="1" y="26" width="105" height="8"></rect>
+                <rect id="Rectangle" fill="#E0E0E0" x="57" y="52" width="40" height="3"></rect>
+                <rect id="Rectangle" fill="#F5F5F5" x="57" y="61" width="40" height="3"></rect>
+                <rect id="Rectangle" fill="#3EB7F9" opacity="0.2" x="58" y="56" width="23" height="3"></rect>
+                <rect id="Rectangle" fill="#69F0AE" opacity="0.2" x="58" y="66" width="16" height="3"></rect>
+                <rect id="Rectangle" fill="#69F0AE" x="76" y="66" width="16" height="3"></rect>
+                <rect id="Rectangle" fill="#E0E0E0" x="48" y="107" width="138" height="5"></rect>
+                <rect id="Rectangle" fill="#E0E0E0" x="48" y="117" width="46" height="5"></rect>
+                <rect id="Rectangle" fill="#69F0AE" x="140" y="117" width="46" height="5"></rect>
+                <rect id="Rectangle" fill="#E0E0E0" x="48" y="128" width="138" height="5"></rect>
+                <rect id="Rectangle" fill="#E0E0E0" x="48" y="139" width="138" height="5"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-4)" x="48" y="149" width="14" height="7"></rect>
+                <rect id="Rectangle" fill="#3EB7F9" x="48" y="149" width="14" height="5"></rect>
+                <rect id="Rectangle" fill="#69F0AE" x="108" y="149" width="14" height="5"></rect>
+                <rect id="Rectangle" fill="#69F0AE" x="171" y="149" width="14" height="5"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-5)" x="105" y="167" width="82" height="18"></rect>
+                <rect id="Rectangle" fill="#3EB7F9" x="107" y="168" width="78" height="14"></rect>
+                <rect id="Rectangle" fill="#000000" opacity="0.2" x="107" y="168" width="78" height="14"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-6)" x="135" y="23" width="51" height="40"></rect>
+                <rect id="Rectangle" fill="#3EB7F9" x="138" y="26" width="48" height="34"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.2" x="138" y="26" width="48" height="34"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

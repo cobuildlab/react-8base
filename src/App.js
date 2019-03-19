@@ -14,8 +14,8 @@ import Menu from './components/Menu';
 
 const { REACT_APP_8BASE_API_ENDPOINT } = process.env;
 
-const AUTH_CLIENT_ID = 'qGHZVu5CxY5klivm28OPLjopvsYp0baD';
 const AUTH_DOMAIN = 'auth.8base.com';
+const AUTH_CLIENT_ID = 'qGHZVu5CxY5klivm28OPLjopvsYp0baD';
 
 const auth0WebClient = new Auth0WebClient({
   domain: AUTH_DOMAIN,

@@ -2,7 +2,7 @@
   "name": "collab-to-grow-clent",
   "version": "1.0.0",
   "dependencies": {
-    "@8base/app-provider": "^0.6.5",
+    "@8base/app-provider": "^0.37.2",
     "@8base/auth": "^0.6.5",
     "@8base/boost": "^0.9.1",
     "@8base/file-input": "^0.13.0",

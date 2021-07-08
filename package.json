@@ -6,7 +6,7 @@
     "@8base/auth": "^0.6.5",
     "@8base/boost": "^0.9.1",
     "@8base/file-input": "^0.13.0",
-    "@8base/forms": "^0.6.5",
+    "@8base/forms": "^0.37.2",
     "@8base/table-schema-provider": "^0.6.5",
     "apollo-client": "^2.5.1",
     "deepmerge": "^2.2.1",
